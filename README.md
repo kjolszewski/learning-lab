@@ -20,6 +20,6 @@ Results:
 
 Observations/Next steps:
 - A random agent is very poor for such a task, even on a tiny 4x4 grid.
-- I will not investigate how an agent could use its previous experiences to make better decisions.
+- I will now investigate how an agent could use its previous experiences to make better decisions.
     - This will primarily involve exploring what information an agent should remember and how it could use rewards to improve its decision making.
 
